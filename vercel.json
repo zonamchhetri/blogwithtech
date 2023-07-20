@@ -1,6 +1,6 @@
 {
     "routes": [{
-        "src": "/[^.]+",
+        "src": "/category/",
         "dest": "/category/",
         "status": 200
     }]
